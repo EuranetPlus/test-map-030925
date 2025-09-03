@@ -1,0 +1,17 @@
+{
+  "heading": "Detta är BNP-tillväxten i hela EU-27",
+  "subheading": "År 2025 är detta BNP i EU-länderna",
+  "legend1": "Inga data tillgängliga",
+  "tooltip1": "",
+  "textSourceDescription": "Källa",
+  "textSource": "Eurostat",
+  "textNoteDescription": "Notera",
+  "textNote": "Detta är en testanteckning",
+  "textDataAccess": "Åtkomst till data",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
+  "textCountryClick": "Klicka för mer information",
+  "extraInfoText_DE": "",
+  "extraInfoLink_DE": "",
+  "extraInfoText_SE": "",
+  "extraInfoLink_SE": ""
+}

@@ -1,0 +1,17 @@
+{
+  "heading": "Oto wzrost PKB w całej UE-27",
+  "subheading": "W 2025 r. tyle wyniesie PKB krajów UE",
+  "legend1": "Brak dostępnych danych",
+  "tooltip1": "",
+  "textSourceDescription": "Źródło",
+  "textSource": "Eurostat",
+  "textNoteDescription": "Notatka",
+  "textNote": "To jest notatka testowa",
+  "textDataAccess": "Uzyskaj dostęp do danych",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=pl",
+  "textCountryClick": "Kliknij, aby uzyskać więcej informacji",
+  "extraInfoText_DE": "",
+  "extraInfoLink_DE": "",
+  "extraInfoText_SE": "",
+  "extraInfoLink_SE": ""
+}

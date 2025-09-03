@@ -1,0 +1,17 @@
+{
+  "heading": "Toto je růst HDP v celé EU-27",
+  "subheading": "V roce 2025 to byl HDP v zemích EU",
+  "legend1": "Nejsou k dispozici žádná data",
+  "tooltip1": "",
+  "textSourceDescription": "Zdroj",
+  "textSource": "Eurostat",
+  "textNoteDescription": "Poznámka",
+  "textNote": "Toto je testovací poznámka",
+  "textDataAccess": "Přístup k datům",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
+  "textCountryClick": "Klikněte pro více informací",
+  "extraInfoText_DE": "",
+  "extraInfoLink_DE": "",
+  "extraInfoText_SE": "",
+  "extraInfoLink_SE": ""
+}

@@ -1,0 +1,17 @@
+{
+  "heading": "Dit is de BBP-groei in de EU-27",
+  "subheading": "In 2025 is dit het BBP in de EU-landen",
+  "legend1": "Geen gegevens beschikbaar",
+  "tooltip1": "",
+  "textSourceDescription": "Bron",
+  "textSource": "Eurostat",
+  "textNoteDescription": "Opmerking",
+  "textNote": "Dit is een testnotitie",
+  "textDataAccess": "Toegang tot de gegevens",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
+  "textCountryClick": "Klik voor meer informatie",
+  "extraInfoText_DE": "",
+  "extraInfoLink_DE": "",
+  "extraInfoText_SE": "",
+  "extraInfoLink_SE": ""
+}

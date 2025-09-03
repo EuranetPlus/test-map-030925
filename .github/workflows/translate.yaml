@@ -1,0 +1,28 @@
+name: Translate text
+on:
+  workflow_dispatch: {}
+  push:
+    paths:
+      - .github/workflows/translate.yaml
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v3
+      - run: git config --global user.name 'EuranetPlus'
+      - run: git config --global user.email 'torsten.spies@euranetplus.eu'
+      - id: 'auth'
+        name: 'Authenticate to Google Cloud'
+        uses: 'google-github-actions/auth@v1'
+        with:
+          credentials_json: '${{ secrets.GOOGLE_CREDENTIALS }}'
+      - name: Setup node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm install
+      - run: npm run translate
+      - run: git add .
+      - run: git commit --allow-empty -m "Updated text in all language json files"
+      - run: git push origin main

@@ -1,0 +1,17 @@
+{
+  "heading": "Αυτή είναι η αύξηση του ΑΕΠ σε ολόκληρη την ΕΕ-27",
+  "subheading": "Το 2025, αυτό είναι το ΑΕΠ στις χώρες της ΕΕ",
+  "legend1": "Δεν υπάρχουν διαθέσιμα δεδομένα",
+  "tooltip1": "",
+  "textSourceDescription": "Πηγή",
+  "textSource": "Eurostat",
+  "textNoteDescription": "Σημείωμα",
+  "textNote": "Αυτή είναι μια δοκιμαστική σημείωση",
+  "textDataAccess": "Πρόσβαση στα δεδομένα",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
+  "textCountryClick": "Κάντε κλικ για περισσότερες πληροφορίες",
+  "extraInfoText_DE": "",
+  "extraInfoLink_DE": "",
+  "extraInfoText_SE": "",
+  "extraInfoLink_SE": ""
+}

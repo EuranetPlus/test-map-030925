@@ -1,0 +1,17 @@
+{
+  "heading": "Ez a GDP növekedése az EU-27-ben",
+  "subheading": "2025-ben ez az EU-országok GDP-je",
+  "legend1": "Nincsenek elérhető adatok",
+  "tooltip1": "",
+  "textSourceDescription": "Forrás",
+  "textSource": "Eurostat",
+  "textNoteDescription": "Jegyzet",
+  "textNote": "Ez egy tesztjegyzet",
+  "textDataAccess": "Hozzáférés az adatokhoz",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
+  "textCountryClick": "Kattintson a további információkért",
+  "extraInfoText_DE": "",
+  "extraInfoLink_DE": "",
+  "extraInfoText_SE": "",
+  "extraInfoLink_SE": ""
+}

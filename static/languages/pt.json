@@ -1,0 +1,17 @@
+{
+  "heading": "Este é o crescimento do PIB na UE-27",
+  "subheading": "Em 2025, este é o PIB dos países da UE",
+  "legend1": "Nenhum dado disponível",
+  "tooltip1": "",
+  "textSourceDescription": "Fonte",
+  "textSource": "Eurostat",
+  "textNoteDescription": "Observação",
+  "textNote": "Esta é uma nota de teste",
+  "textDataAccess": "Acesse os dados",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
+  "textCountryClick": "Clique para mais informações",
+  "extraInfoText_DE": "",
+  "extraInfoLink_DE": "",
+  "extraInfoText_SE": "",
+  "extraInfoLink_SE": ""
+}

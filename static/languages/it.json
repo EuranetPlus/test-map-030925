@@ -1,0 +1,17 @@
+{
+  "heading": "Questa è la crescita del PIL nell'UE-27",
+  "subheading": "Nel 2025, questo è il PIL nei paesi dell'UE",
+  "legend1": "Nessun dato disponibile",
+  "tooltip1": "",
+  "textSourceDescription": "Fonte",
+  "textSource": "Eurostat",
+  "textNoteDescription": "Nota",
+  "textNote": "Questa è una nota di prova",
+  "textDataAccess": "Accedi ai dati",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=it",
+  "textCountryClick": "Clicca per maggiori informazioni",
+  "extraInfoText_DE": "",
+  "extraInfoLink_DE": "",
+  "extraInfoText_SE": "",
+  "extraInfoLink_SE": ""
+}

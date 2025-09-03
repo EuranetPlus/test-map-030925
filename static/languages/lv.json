@@ -1,0 +1,17 @@
+{
+  "heading": "Šis ir IKP pieaugums visā ES 27 dalībvalstīs.",
+  "subheading": "2025. gadā šis ir IKP ES valstīs",
+  "legend1": "Dati nav pieejami",
+  "tooltip1": "",
+  "textSourceDescription": "Avots",
+  "textSource": "Eurostat",
+  "textNoteDescription": "Piezīme",
+  "textNote": "Šī ir testa piezīme",
+  "textDataAccess": "Piekļūstiet datiem",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju",
+  "extraInfoText_DE": "",
+  "extraInfoLink_DE": "",
+  "extraInfoText_SE": "",
+  "extraInfoLink_SE": ""
+}

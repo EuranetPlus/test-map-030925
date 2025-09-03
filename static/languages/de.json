@@ -1,0 +1,17 @@
+{
+  "heading": "Dies ist das BIP-Wachstum in der EU-27",
+  "subheading": "Dies ist das BIP in den EU-Ländern im Jahr 2025",
+  "legend1": "Keine Daten verfügbar",
+  "tooltip1": "",
+  "textSourceDescription": "Quelle",
+  "textSource": "Eurostat",
+  "textNoteDescription": "Notiz",
+  "textNote": "Dies ist eine Testnotiz",
+  "textDataAccess": "Zugriff auf die Daten",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
+  "textCountryClick": "Klicken Sie hier für weitere Informationen",
+  "extraInfoText_DE": "",
+  "extraInfoLink_DE": "",
+  "extraInfoText_SE": "",
+  "extraInfoLink_SE": ""
+}

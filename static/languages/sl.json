@@ -1,0 +1,17 @@
+{
+  "heading": "To je rast BDP v celotni EU-27",
+  "subheading": "To je BDP v državah EU v letu 2025",
+  "legend1": "Ni na voljo podatkov",
+  "tooltip1": "",
+  "textSourceDescription": "Vir",
+  "textSource": "Eurostat",
+  "textNoteDescription": "Opomba",
+  "textNote": "To je testna opomba",
+  "textDataAccess": "Dostop do podatkov",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
+  "textCountryClick": "Kliknite za več informacij",
+  "extraInfoText_DE": "",
+  "extraInfoLink_DE": "",
+  "extraInfoText_SE": "",
+  "extraInfoLink_SE": ""
+}
