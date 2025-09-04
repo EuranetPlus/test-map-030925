@@ -1,6 +1,6 @@
 {
-  "heading": "Quantas vacas existem em cada país da UE?",
-  "subheading": "Os números variam muito entre os países da UE",
+  "heading": "Quantas aves vivem em cada país da UE?",
+  "subheading": "Os números variam drasticamente entre os países da UE",
   "legend1": "Nenhum dado disponível",
   "tooltip1": "",
   "textSourceDescription": "Fonte",
@@ -10,7 +10,7 @@
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
   "textCountryClick": "Clique para mais informações",
-  "extraInfoText_DE": "A Rota 99 vai da cidade israelense de Kiryat Shmona, no norte do país, passando por Majdal Shams, uma cidade habitada por drusos sírios no Monte Hermon, até as Colinas de Golã, ocupadas por Israel. Até algumas semanas atrás, esse trecho era uma área militar restrita. Ela segue ao longo da fronteira com o Líbano e sobe até a fronteira com a Síria. Dali, a milícia terrorista Hezbollah disparou a maioria de seus foguetes e drones.",
+  "extraInfoText_DE": "A Rota 99 vai da cidade israelense de Kiryat Shmona, no norte do país, passando por Majdal Shams, uma cidade habitada por drusos sírios diretamente no Monte Hermon, até as Colinas de Golã ocupadas por Israel. Até algumas semanas atrás, esse trecho era uma área militar restrita. Ela segue ao longo da fronteira com o Líbano e sobe até a fronteira com a Síria. Dali, a milícia terrorista Hezbollah disparou a maioria de seus foguetes e drones.",
   "extraInfoLink_DE": "Ler mais",
   "extraInfoText_SE": "Suécia - Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Enean commodo ligula eget dolor. Enéias massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
   "extraInfoLink_SE": ""

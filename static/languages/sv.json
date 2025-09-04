@@ -1,5 +1,5 @@
 {
-  "heading": "Hur många kor finns det i varje EU-land?",
+  "heading": "Hur många fåglar finns i varje EU-land?",
   "subheading": "Siffrorna varierar kraftigt mellan EU-länderna",
   "legend1": "Inga data tillgängliga",
   "tooltip1": "",
@@ -10,8 +10,8 @@
   "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
   "textCountryClick": "Klicka för mer information",
-  "extraInfoText_DE": "Rut 99 leder från den norra israeliska staden Kiryat Shmona via Majdal Shams, en stad bebodd av syriska druser direkt på berget Hermon, till de israeliskt ockuperade Golanhöjderna. Fram till för några veckor sedan var denna sträcka ett militärt område med begränsat avstånd. Den löper längs gränsen till Libanon och upp till gränsen till Syrien. Härifrån avfyrade terroristmilisen Hizbollah de flesta av sina raketer och drönare.",
+  "extraInfoText_DE": "Rut 99 går från den norra israeliska staden Kiryat Shmona via Majdal Shams, en stad bebodd av syriska druser direkt på berget Hermon, till de israeliskt ockuperade Golanhöjderna. Fram till för några veckor sedan var denna sträcka ett militärt område med begränsat avstånd. Den löper längs gränsen till Libanon och upp till gränsen till Syrien. Härifrån avfyrade terroristmilisen Hizbollah de flesta av sina raketer och drönare.",
   "extraInfoLink_DE": "Läs mer",
-  "extraInfoText_SE": "Sverige - Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Eneisk massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
+  "extraInfoText_SE": "Sverige - Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aeneisk massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
   "extraInfoLink_SE": ""
 }
