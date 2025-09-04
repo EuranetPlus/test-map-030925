@@ -1,6 +1,6 @@
 {
-  "heading": "Toto je rast HDP v celej EÚ-27",
-  "subheading": "V roku 2025 to bol HDP v krajinách EÚ",
+  "heading": "Najnovšie údaje o výsledkoch EÚ v rámci PISA",
+  "subheading": "V jednotlivých krajinách EÚ sa výsledky značne líšia",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltip1": "",
   "textSourceDescription": "Zdroj",
@@ -10,8 +10,8 @@
   "textDataAccess": "Prístup k údajom",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
   "textCountryClick": "Kliknite pre viac informácií",
-  "extraInfoText_DE": "",
-  "extraInfoLink_DE": "",
-  "extraInfoText_SE": "",
+  "extraInfoText_DE": "Cesta č. 99 vedie zo severoizraelského mesta Kirjat Šmona cez Majdal Šams, mesto obývané sýrskymi Drúzmi priamo na vrchu Hermon, do Izraelom okupovaných Golanských výšin. Ešte pred niekoľkými týždňami bol tento úsek obmedzenou vojenskou oblasťou. Vedie pozdĺž hranice s Libanonom až k hranici so Sýriou. Odtiaľto teroristická milícia Hizballáh odpálila väčšinu svojich rakiet a dronov.",
+  "extraInfoLink_DE": "Čítať ďalej",
+  "extraInfoText_SE": "Švédsko - Lorem ipsum dolor sit amet, consectetuer adipiscing elita. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet in, vulputate eget, arcu.",
   "extraInfoLink_SE": ""
 }

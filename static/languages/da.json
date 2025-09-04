@@ -1,6 +1,6 @@
 {
-  "heading": "Dette er BNP-væksten i hele EU-27",
-  "subheading": "I 2025 er dette BNP i EU-landene",
+  "heading": "De seneste data om EU's Pisa-resultater",
+  "subheading": "Resultaterne varierer meget på tværs af EU-landene",
   "legend1": "Ingen data tilgængelige",
   "tooltip1": "",
   "textSourceDescription": "Kilde",
@@ -10,8 +10,8 @@
   "textDataAccess": "Få adgang til dataene",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
   "textCountryClick": "Klik for mere information",
-  "extraInfoText_DE": "",
-  "extraInfoLink_DE": "",
-  "extraInfoText_SE": "",
+  "extraInfoText_DE": "Rute 99 fører fra den nordisraelske by Kiryat Shmona via Majdal Shams, en by beboet af syriske drusere direkte på Hermonbjerget, til de israelsk-besatte Golanhøjder. Indtil for et par uger siden var denne strækning et militært område med begrænset adgang. Den løber langs grænsen til Libanon og op til grænsen til Syrien. Herfra affyrede terrormilitsen Hizbollah de fleste af sine raketter og droner.",
+  "extraInfoLink_DE": "Læs mere",
+  "extraInfoText_SE": "Sverige - Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Ænisk massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
   "extraInfoLink_SE": ""
 }

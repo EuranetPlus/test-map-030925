@@ -1,6 +1,6 @@
 {
-  "heading": "Il s'agit de la croissance du PIB dans l'UE-27",
-  "subheading": "En 2025, voici le PIB des pays de l'UE",
+  "heading": "Les dernières données sur les résultats du PISA de l'UE",
+  "subheading": "Les résultats varient considérablement d’un pays à l’autre de l’UE",
   "legend1": "Aucune donnée disponible",
   "tooltip1": "",
   "textSourceDescription": "Source",
@@ -10,8 +10,8 @@
   "textDataAccess": "Accéder aux données",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=fr",
   "textCountryClick": "Cliquez pour plus d'informations",
-  "extraInfoText_DE": "",
-  "extraInfoLink_DE": "",
-  "extraInfoText_SE": "",
+  "extraInfoText_DE": "La route 99 relie Kiryat Shmona, au nord d'Israël, via Majdal Shams, une ville habitée par des Druzes syriens située directement sur le mont Hermon, au plateau du Golan occupé par Israël. Jusqu'à il y a quelques semaines, ce tronçon était une zone militaire restreinte. Il longe la frontière avec le Liban et remonte jusqu'à la frontière avec la Syrie. C'est de là que la milice terroriste Hezbollah a tiré la plupart de ses roquettes et de ses drones.",
+  "extraInfoLink_DE": "En savoir plus",
+  "extraInfoText_SE": "Suède - Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Énéen commodo ligula eget dolor. Massa énéenne. Cum sociis otanique penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
   "extraInfoLink_SE": ""
 }

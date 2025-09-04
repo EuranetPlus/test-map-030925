@@ -1,6 +1,6 @@
 {
-  "heading": "Tämä on BKT:n kasvu EU27-maissa",
-  "subheading": "Vuonna 2025 tämä on EU-maiden bruttokansantuote",
+  "heading": "Uusimmat tiedot EU:n Pisa-tuloksista",
+  "subheading": "Tulokset vaihtelevat suuresti eri EU-maissa",
   "legend1": "Ei tietoja saatavilla",
   "tooltip1": "",
   "textSourceDescription": "Lähde",
@@ -10,8 +10,8 @@
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
   "textCountryClick": "Klikkaa saadaksesi lisätietoja",
-  "extraInfoText_DE": "",
-  "extraInfoLink_DE": "",
-  "extraInfoText_SE": "",
+  "extraInfoText_DE": "Reitti 99 kulkee Pohjois-Israelin kaupungista Kirjat Shmonasta Majdal Shamsin kautta, joka on syyrialaisten druusien asuttama kaupunki suoraan Hermoninvuorella, Israelin miehittämille Golanin kukkuloille. Vielä muutama viikko sitten tämä osuus oli rajoitettua sotilasaluetta. Se kulkee Libanonin rajaa pitkin ja Syyrian rajalle asti. Täältä terroristiryhmä Hizbollah ampui suurimman osan raketeistaan ja droneistaan.",
+  "extraInfoLink_DE": "Lue lisää",
+  "extraInfoText_SE": "Ruotsi - Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies, muualle luokittelemattomat, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet, muualle luokittelematon, vulputate eget, arcu.",
   "extraInfoLink_SE": ""
 }

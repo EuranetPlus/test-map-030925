@@ -1,6 +1,6 @@
 {
-  "heading": "Това е ръстът на БВП в ЕС-27",
-  "subheading": "През 2025 г. това е БВП в страните от ЕС",
+  "heading": "Най-новите данни за резултатите от PISA на ЕС",
+  "subheading": "В различните страни от ЕС резултатите се различават значително",
   "legend1": "Няма налични данни",
   "tooltip1": "",
   "textSourceDescription": "Източник",
@@ -10,8 +10,8 @@
   "textDataAccess": "Достъп до данните",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
   "textCountryClick": "Кликнете за повече информация",
-  "extraInfoText_DE": "",
-  "extraInfoLink_DE": "",
-  "extraInfoText_SE": "",
+  "extraInfoText_DE": "Маршрут 99 води от северния израелски град Кирят Шмона през Мадждал Шамс, град, населен от сирийски друзи, разположен директно на планината Хермон, до окупираните от Израел Голански възвишения. Допреди няколко седмици този участък беше ограничена военна зона. Той минава по границата с Ливан и до границата със Сирия. Оттук терористичната милиция Хизбула изстреля повечето си ракети и дронове.",
+  "extraInfoLink_DE": "Прочетете още",
+  "extraInfoText_SE": "Швеция - Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Енейска маса. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
   "extraInfoLink_SE": ""
 }

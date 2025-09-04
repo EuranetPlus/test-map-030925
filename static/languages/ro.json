@@ -1,6 +1,6 @@
 {
-  "heading": "Aceasta este creșterea PIB-ului în UE-27",
-  "subheading": "În 2025, acesta este PIB-ul țărilor UE",
+  "heading": "Cele mai recente date despre rezultatele PISA din UE",
+  "subheading": "Rezultatele variază foarte mult în țările UE",
   "legend1": "Nu sunt disponibile date",
   "tooltip1": "",
   "textSourceDescription": "Sursă",
@@ -10,8 +10,8 @@
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=ro",
   "textCountryClick": "Faceți clic pentru mai multe informații",
-  "extraInfoText_DE": "",
-  "extraInfoLink_DE": "",
-  "extraInfoText_SE": "",
+  "extraInfoText_DE": "Ruta 99 duce din orașul Kiryat Shmona din nordul Israelului, prin Majdal Shams, un oraș locuit de druzi sirieni, situat chiar pe Muntele Hermon, până în Înălțimile Golan ocupate de Israel. Până acum câteva săptămâni, această porțiune era o zonă militară restricționată. Se întinde de-a lungul graniței cu Libanul și până la granița cu Siria. De aici, miliția teroristă Hezbollah a lansat majoritatea rachetelor și dronelor sale.",
+  "extraInfoLink_DE": "Citeşte mai mult",
+  "extraInfoText_SE": "Suedia - Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
   "extraInfoLink_SE": ""
 }

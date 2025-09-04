@@ -1,6 +1,6 @@
 {
-  "heading": "Šis ir IKP pieaugums visā ES 27 dalībvalstīs.",
-  "subheading": "2025. gadā šis ir IKP ES valstīs",
+  "heading": "Jaunākie dati par ES PISA rezultātiem",
+  "subheading": "Rezultāti dažādās ES valstīs ir ļoti atšķirīgi",
   "legend1": "Dati nav pieejami",
   "tooltip1": "",
   "textSourceDescription": "Avots",
@@ -10,8 +10,8 @@
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
   "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju",
-  "extraInfoText_DE": "",
-  "extraInfoLink_DE": "",
-  "extraInfoText_SE": "",
+  "extraInfoText_DE": "99. autoceļš ved no Izraēlas ziemeļu pilsētas Kirjatšmonas caur Majdal Šamsu, Sīrijas drūzu apdzīvotu pilsētu tieši pie Hermona kalna, uz Izraēlas okupētajiem Golānas augstienēm. Vēl pirms dažām nedēļām šis posms bija ierobežota militārā zona. Tas stiepjas gar robežu ar Libānu un līdz robežai ar Sīriju. No šejienes teroristu kaujinieku grupējums Hezbollah izšāva lielāko daļu savu raķešu un dronu.",
+  "extraInfoLink_DE": "Lasīt vairāk",
+  "extraInfoText_SE": "Zviedrija — Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Enejas masa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, citur neklasificēti ultricies, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet, citur neklasificēts, vulputate eget, arcu.",
   "extraInfoLink_SE": ""
 }

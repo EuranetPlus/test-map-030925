@@ -1,6 +1,6 @@
 {
-  "heading": "Αυτή είναι η αύξηση του ΑΕΠ σε ολόκληρη την ΕΕ-27",
-  "subheading": "Το 2025, αυτό είναι το ΑΕΠ στις χώρες της ΕΕ",
+  "heading": "Τα τελευταία στοιχεία για τα αποτελέσματα του EU PISA",
+  "subheading": "Μεταξύ των χωρών της ΕΕ τα αποτελέσματα ποικίλλουν σημαντικά",
   "legend1": "Δεν υπάρχουν διαθέσιμα δεδομένα",
   "tooltip1": "",
   "textSourceDescription": "Πηγή",
@@ -10,8 +10,8 @@
   "textDataAccess": "Πρόσβαση στα δεδομένα",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
   "textCountryClick": "Κάντε κλικ για περισσότερες πληροφορίες",
-  "extraInfoText_DE": "",
-  "extraInfoLink_DE": "",
-  "extraInfoText_SE": "",
+  "extraInfoText_DE": "Η Οδός 99 οδηγεί από τη βόρεια ισραηλινή πόλη Κιριάτ Σμόνα μέσω του Ματζντάλ Σαμς, μιας πόλης που κατοικείται από Σύρους Δρούζους ακριβώς στο Όρος Ερμών, στα κατεχόμενα από το Ισραήλ Υψίπεδα του Γκολάν. Μέχρι πριν από λίγες εβδομάδες, αυτό το τμήμα ήταν μια περιορισμένη στρατιωτική περιοχή. Εκτείνεται κατά μήκος των συνόρων με τον Λίβανο και μέχρι τα σύνορα με τη Συρία. Από εδώ, η τρομοκρατική πολιτοφυλακή Χεζμπολάχ εξαπέλυσε τους περισσότερους από τους πυραύλους και τα μη επανδρωμένα αεροσκάφη της.",
+  "extraInfoLink_DE": "Διαβάστε περισσότερα",
+  "extraInfoText_SE": "Σουηδία - Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis disparturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
   "extraInfoLink_SE": ""
 }

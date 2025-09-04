@@ -1,6 +1,6 @@
 {
-  "heading": "Dies ist das BIP-Wachstum in der EU-27",
-  "subheading": "Dies ist das BIP in den EU-Ländern im Jahr 2025",
+  "heading": "Die neuesten Daten zu den PISA-Ergebnissen der EU",
+  "subheading": "Die Ergebnisse variieren stark zwischen den EU-Ländern",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "",
   "textSourceDescription": "Quelle",
@@ -10,8 +10,8 @@
   "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
   "textCountryClick": "Klicken Sie hier für weitere Informationen",
-  "extraInfoText_DE": "",
-  "extraInfoLink_DE": "",
-  "extraInfoText_SE": "",
+  "extraInfoText_DE": "Die Straße 99 führt von der nordisraelischen Stadt Kirjat Schmona über Madschdal Schams, einen von syrischen Drusen bewohnten Ort direkt am Berg Hermon, hin auf die von Israel besetzten Golanhöhen: Bis vor wenigen Wochen war diese Strecke militärisches Sperrgebiet. Sie führt entlang der Grenze zum Libanon und bis hoch an die Grenze zu Syrien. Von hier aus verschoss die Terrormiliz Hisbollah die meisten ihrer Raketen und Drohnen. ",
+  "extraInfoLink_DE": "Mehr lesen",
+  "extraInfoText_SE": "Schweden - Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean Commodo Ligula Eget Dolor. Aenäisches Massa. Mit sociis natoque penatibus et magnis dis parturient montes, nascetur lächerlich mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
   "extraInfoLink_SE": ""
 }

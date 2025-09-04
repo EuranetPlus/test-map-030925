@@ -1,6 +1,6 @@
 {
-  "heading": "Tai yra BVP augimas visoje ES 27.",
-  "subheading": "2025 m. toks yra BVP ES šalyse",
+  "heading": "Naujausi duomenys apie ES PISA rezultatus",
+  "subheading": "Rezultatai ES šalyse labai skiriasi",
   "legend1": "Nėra duomenų",
   "tooltip1": "",
   "textSourceDescription": "Šaltinis",
@@ -10,8 +10,8 @@
   "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos",
-  "extraInfoText_DE": "",
-  "extraInfoLink_DE": "",
-  "extraInfoText_SE": "",
+  "extraInfoText_DE": "99-asis maršrutas veda iš šiaurinio Izraelio miesto Kirjat Šmonos per Majdal Šamsą, Sirijos drūzų gyvenamą miestą tiesiai ant Hermono kalno, į Izraelio okupuotas Golano aukštumas. Dar prieš kelias savaites ši atkarpa buvo saugoma karinė zona. Ji driekiasi palei sieną su Libanu ir iki sienos su Sirija. Iš čia teroristinė kovotojų grupuotė „Hezbollah“ paleido didžiąją dalį savo raketų ir dronų.",
+  "extraInfoLink_DE": "Skaityti daugiau",
+  "extraInfoText_SE": "Švedija – Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Enėjos masė. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies, niekur kitur nepriskirtos, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet, niekur kitur nepriskirtas, vulputate eget, arcu.",
   "extraInfoLink_SE": ""
 }

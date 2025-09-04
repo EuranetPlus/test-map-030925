@@ -1,6 +1,6 @@
 {
-  "heading": "Ovo je rast BDP-a u cijeloj EU-27",
-  "subheading": "U 2025. godini, ovo je BDP u zemljama EU-a",
+  "heading": "Najnoviji podaci o rezultatima EU PISA testa",
+  "subheading": "Rezultati se uvelike razlikuju među zemljama EU-a",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "",
   "textSourceDescription": "Izvor",
@@ -10,8 +10,8 @@
   "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
   "textCountryClick": "Kliknite za više informacija",
-  "extraInfoText_DE": "",
-  "extraInfoLink_DE": "",
-  "extraInfoText_SE": "",
+  "extraInfoText_DE": "Ruta 99 vodi od sjevernog izraelskog grada Kiryat Shmona preko Majdal Shamsa, grada naseljenog sirijskim Druzima direktno na planini Hermon, do Golanske visoravni koju je okupirao Izrael. Do prije nekoliko tjedana, ovaj dio bio je ograničeno vojno područje. Proteže se uz granicu s Libanonom i do granice sa Sirijom. Odavde je teroristička milicija Hezbollah ispalila većinu svojih raketa i dronova.",
+  "extraInfoLink_DE": "Pročitajte više",
+  "extraInfoText_SE": "Švedska - Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Enejska masa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
   "extraInfoLink_SE": ""
 }

@@ -1,6 +1,6 @@
 {
-  "heading": "This is GDP growth across the EU-27",
-  "subheading": "In 2025, this is the GDP in EU countries",
+  "heading": "The latest data on EU pisa results",
+  "subheading": "Across EU countries the results vary heavily",
   "legend1": "No data available",
   "tooltip1": "",
   "textSourceDescription": "Source",
@@ -10,8 +10,8 @@
   "textDataAccess": "Access the data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
   "textCountryClick": "Click for more info",
-  "extraInfoText_DE": "",
-  "extraInfoLink_DE": "",
-  "extraInfoText_SE": "",
+  "extraInfoText_DE": "Route 99 leads from the northern Israeli city of Kiryat Shmona via Majdal Shams, a town inhabited by Syrian Druze directly on Mount Hermon, to the Israeli-occupied Golan Heights. Until a few weeks ago, this stretch was a restricted military area. It runs along the border with Lebanon and up to the border with Syria. From here, the terrorist militia Hezbollah fired most of its rockets and drones.",
+  "extraInfoLink_DE": "Read more",
+  "extraInfoText_SE": "Sweden - Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
   "extraInfoLink_SE": ""
 }
