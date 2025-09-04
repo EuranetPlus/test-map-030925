@@ -1,6 +1,6 @@
 {
-  "heading": "A legfrissebb adatok az EU PISA eredményeiről",
-  "subheading": "Az eredmények az EU-tagállamokban jelentősen eltérnek",
+  "heading": "Hány tehén van az egyes EU-tagállamokban?",
+  "subheading": "Az EU-tagállamokban a számok jelentősen eltérnek",
   "legend1": "Nincsenek elérhető adatok",
   "tooltip1": "",
   "textSourceDescription": "Forrás",
@@ -10,7 +10,7 @@
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_educ_a__custom_14246763/default/table?lang=en",
   "textCountryClick": "Kattintson a további információkért",
-  "extraInfoText_DE": "A 99-es út az észak-izraeli Kirjat Smona városból Majdal Samson, egy szíriai drúzok lakta városon keresztül, közvetlenül a Hermon-hegyen, az Izrael által megszállt Golán-fennsíkra vezet. Néhány héttel ezelőttig ez a szakasz korlátozott katonai övezet volt. A libanoni határ mentén és a szíriai határig húzódik. Innen lőtte ki a Hezbollah terrorista milícia rakétáinak és drónjainak nagy részét.",
+  "extraInfoText_DE": "A 99-es út az észak-izraeli Kirjat Smona városból Majdal Samson, egy szíriai drúzok lakta városon keresztül vezet közvetlenül a Hermon-hegyen az Izrael által megszállt Golán-fennsíkra. Néhány héttel ezelőttig ez a szakasz korlátozott katonai övezet volt. A libanoni határ mentén és a szíriai határig húzódik. Innen lőtte ki a Hezbollah terrorista milícia rakétáinak és drónjainak nagy részét.",
   "extraInfoLink_DE": "További információ",
   "extraInfoText_SE": "Svédország - Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, máshová nem sorolt ultricies, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
   "extraInfoLink_SE": ""
